@@ -8,13 +8,13 @@ writing more code for myself, and now more recently for some open source project
 
 ### Browser Extensions
 
-[The Great-er Tab Discarder](https://github.com/rkodey/the-great-er-discarder-er), maintainer
-Helps Chrome, Edge, and Chromium browsers load and run faster by freeing up memory and resources used by inactive or old tabs. No tracking. No drama. Only fast-er browsing!
+[The Great-er Tab Discarder](https://github.com/rkodey/the-great-er-discarder-er), maintainer<br>
+Helps Chrome, Edge, and Chromium browsers load and run faster by freeing up memory and resources used by inactive or old tabs. No tracking. No drama. Only fast-er browsing!<br>
 JavaScript / TypeScript &nbsp;&nbsp; ⭐100+
 
-[The Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender), contributor / collaborator
-A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking.
-JavaScript / TypeScript &nbsp;&nbsp; ⭐1,000+
+[The Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender), contributor / collaborator<br>
+A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking.<br>
+JavaScript &nbsp;&nbsp; ⭐1,000+
 
 ### Other stuff that's been fun to play with
 - Bugfix for [Google Chrome / Lighthouse](https://github.com/GoogleChrome/lighthouse/releases/tag/v12.6.0)
