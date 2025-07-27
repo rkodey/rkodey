@@ -6,11 +6,22 @@ writing more code for myself, and now more recently for some open source project
 
 ## Featured Projects
 
+<a  href="https://github.com/sponsors/rkodey" target="_blank"><img
+    src="https://img.shields.io/badge/sponsor-on%20GitHub-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA&label=Sponsor+on+GitHub"
+    alt="Sponsor on GitHub" style="height: 20px !important;" /></a> &nbsp;&nbsp;
+<a  href="https://ko-fi.com/rkodey" target="_blank"><img
+    src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white&label=Buy%20me%20a%20coffee"
+    alt="Buy me a coffee on Ko-fi" style="height: 20px !important;" /></a> &nbsp;&nbsp;
+<a  href="https://www.buymeacoffee.com/rkodey" target="_blank"><img
+    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=white&label=Buy%20me%20a%20coffee"
+    alt="Buy me a coffee" style="height: 20px !important;" /></a> &nbsp;&nbsp;
+
+
+<!--
 ![Github-sponsors](https://img.shields.io/badge/sponsor-on%20GitHub-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA&label=Sponsor+on+GitHub) &nbsp;&nbsp;
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white&label=Buy%20me%20a%20coffee) &nbsp;&nbsp;
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=white&label=Buy%20me%20a%20coffee) &nbsp;&nbsp;
 
-<!--
 <a href="https://ko-fi.com/rkodey" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me on Ko-fi" style="height: 32px !important; vertical-align:middle;" ></a> <br>
 <a href="https://www.buymeacoffee.com/rkodey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 32px !important;" ></a> <br>
 -->
