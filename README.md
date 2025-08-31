@@ -26,19 +26,31 @@ writing more code for myself, and now more recently for some open source project
 <a href="https://www.buymeacoffee.com/rkodey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 32px !important;" ></a> <br>
 -->
 
+<br>
+
 ### Browser Extensions
 
-- [The Great-er Tab Discarder](https://github.com/rkodey/the-great-er-discarder-er), maintainer<br>
+Maintainer : <br>
+[![The Great-er Tab Discarder](https://github.com/rkodey/github-readme-stats/raw/main/images/the-great-er-discarder-er.svg)](https://github.com/rkodey/the-great-er-discarder-er)
+
+Contributor / Collaborator : <br>
+[![The Marvellous Suspender](https://github.com/rkodey/github-readme-stats/raw/main/images/MarvellousSuspender.svg)](https://github.com/gioxx/MarvellousSuspender)
+
+<!--
   > Helps Chrome, Edge, and Chromium browsers load and run faster by freeing up memory and resources used by inactive or old tabs. No tracking. No drama. Only fast-er browsing!<br>
     🟡JavaScript, 🔵TypeScript &nbsp;&nbsp; ⭐100+
 
 - [The Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender), contributor / collaborator<br>
   > A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking.<br>
     🟡JavaScript &nbsp;&nbsp; ⭐1,000+
+-->
+
+<br>
 
 ### Other stuff that's been fun to play with
 - Bugfix PR merged into [Google Chrome / Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16443)
-- Theme PR merged into [WinMerge](https://github.com/WinMerge/winmerge/pull/2634), &nbsp;&nbsp; theme source file: [Visual Studio Dark theme for WinMerge](https://github.com/rkodey/winmerge-visual-studio-dark)  ⭐15
+- Theme PR merged into [WinMerge](https://github.com/WinMerge/winmerge/pull/2634) <br>
+  [![The Marvellous Suspender](https://github.com/rkodey/github-readme-stats/raw/main/images/winmerge-visual-studio-dark.svg)](https://github.com/rkodey/winmerge-visual-studio-dark)
 
 
 <!--
