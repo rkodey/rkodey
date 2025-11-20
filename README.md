@@ -4,14 +4,13 @@ Quite a lot, actually.<br>
 When I'm not building hard-core SaaS systems for my career, I often relax by...<br>
 writing more code for myself, and now more recently for some open source projects.
 
-## Featured Projects
+# Featured Projects
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-on%20GitHub-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA&label=Sponsor+on+GitHub)](https://github.com/sponsors/rkodey) &nbsp;&nbsp;
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white&label=Buy%20me%20a%20coffee)](https://ko-fi.com/rkodey) &nbsp;&nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=white&label=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/rkodey) &nbsp;&nbsp;
 
 <!--
-
 <a  href="https://github.com/sponsors/rkodey" target="_blank"><img
     src="https://img.shields.io/badge/sponsor-on%20GitHub-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA&label=Sponsor+on+GitHub"
     alt="Sponsor on GitHub" style="height: 20px !important;" /></a> &nbsp;&nbsp;
@@ -28,7 +27,7 @@ writing more code for myself, and now more recently for some open source project
 
 <br>
 
-### Browser Extensions
+## Browser Extensions
 
 Maintainer : <br>
 [![The Great-er Tab Discarder ](https://github.com/rkodey/github-readme-stats/raw/main/images/the-great-er-discarder-er.svg)](https://github.com/rkodey/the-great-er-discarder-er)
@@ -49,9 +48,11 @@ Contributor / Collaborator : <br>
 
 <br>
 
-### Other stuff that's been fun to play with
-- Bugfix PR merged into [Google Chrome / Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16443)
-- Theme PR merged into [WinMerge](https://github.com/WinMerge/winmerge/pull/2634) <br>
+## Other fun stuff
+- ### <img src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4"  height="18" /> Google Chrome / Lighthouse
+  - Bugfix PR merged: https://github.com/GoogleChrome/lighthouse/pull/16443 <br><br>
+- ### <img src="https://avatars.githubusercontent.com/u/32286726?s=200&v=4" height="18" /> WinMerge
+  - Theme PR merged: https://github.com/WinMerge/winmerge/pull/2634 <br>
   [![The Marvellous Suspender](https://github.com/rkodey/github-readme-stats/raw/main/images/winmerge-visual-studio-dark.svg)](https://github.com/rkodey/winmerge-visual-studio-dark)
 
 
