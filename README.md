@@ -30,12 +30,12 @@ writing more code for myself, and now more recently for some open source project
 ## Browser Extensions
 
 Maintainer : <br>
-[![The Great-er Tab Discarder ](https://github.com/rkodey/github-readme-stats/raw/main/images/the-great-er-discarder-er.svg)](https://github.com/rkodey/the-great-er-discarder-er)
-[![The Great-er Tab Discarder ](https://github.com/rkodey/github-readme-stats/raw/main/images/plpkmjcnhhnpkblimgenmdhghfgghdpp.svg)](https://chromewebstore.google.com/detail/plpkmjcnhhnpkblimgenmdhghfgghdpp)
+[![The Great-er Tab Discarder ](https://github.com/rkodey/github-readme-stats/raw/main/images/the-great-er-discarder-er-github.svg)](https://github.com/rkodey/the-great-er-discarder-er)
+[![The Great-er Tab Discarder ](https://github.com/rkodey/github-readme-stats/raw/main/images/the-great-er-discarder-er-chrome.svg)](https://chromewebstore.google.com/detail/plpkmjcnhhnpkblimgenmdhghfgghdpp)
 
 Contributor / Collaborator : <br>
-[![The Marvellous Suspender   ](https://github.com/rkodey/github-readme-stats/raw/main/images/MarvellousSuspender.svg)](https://github.com/gioxx/MarvellousSuspender)
-[![The Marvellous Suspender   ](https://github.com/rkodey/github-readme-stats/raw/main/images/noogafoofpebimajpfpamcfhoaifemoa.svg)](https://chromewebstore.google.com/detail/noogafoofpebimajpfpamcfhoaifemoa)
+[![The Marvellous Suspender   ](https://github.com/rkodey/github-readme-stats/raw/main/images/MarvellousSuspender-github.svg)](https://github.com/gioxx/MarvellousSuspender)
+[![The Marvellous Suspender   ](https://github.com/rkodey/github-readme-stats/raw/main/images/MarvellousSuspender-chrome.svg)](https://chromewebstore.google.com/detail/noogafoofpebimajpfpamcfhoaifemoa)
 
 <!--
   > Helps Chrome, Edge, and Chromium browsers load and run faster by freeing up memory and resources used by inactive or old tabs. No tracking. No drama. Only fast-er browsing!<br>
@@ -53,7 +53,7 @@ Contributor / Collaborator : <br>
   - Bugfix PR merged: https://github.com/GoogleChrome/lighthouse/pull/16443 <br><br>
 - ### <img src="https://avatars.githubusercontent.com/u/32286726?s=200&v=4" height="18" /> WinMerge
   - Theme PR merged: https://github.com/WinMerge/winmerge/pull/2634 <br>
-  [![The Marvellous Suspender](https://github.com/rkodey/github-readme-stats/raw/main/images/winmerge-visual-studio-dark.svg)](https://github.com/rkodey/winmerge-visual-studio-dark)
+  [![The Marvellous Suspender](https://github.com/rkodey/github-readme-stats/raw/main/images/winmerge-visual-studio-dark-github.svg)](https://github.com/rkodey/winmerge-visual-studio-dark)
 
 
 <!--
